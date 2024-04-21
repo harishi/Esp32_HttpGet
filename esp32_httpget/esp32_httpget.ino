@@ -15,8 +15,8 @@
 #include <HTTPClient.h>
 
 
-const char* ssid = "ROGITH";
-const char* password = "harish@2017";
+const char* ssid = "SSID";
+const char* password = "SSID_Password";
 
 //Your Domain name with URL path or IP address with path
 //String serverName =    "http://192.168.1.39/esp32_motor/temp_test.php";
